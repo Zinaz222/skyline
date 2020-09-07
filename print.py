@@ -1,1 +1,1 @@
-print(2+2)
+add_two = lambda x: x+2
